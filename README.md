@@ -20,25 +20,11 @@ This removes manual report creation and ensures quick visibility of plant perfor
 ---
 
 ## 📂 Repository Structure
-├── README.md
-├── sample_data/
-│ └── sample_chiller_data.csv
-│
-├── dashboards/
-│ ├── Unit-1_Demo.pdf
-│ ├── Unit-3_Demo.pdf
-│ ├── Unit-4_Demo.pdf
-│ ├── Unit-7_Demo.pdf
-│ └── Unit-12_Demo.pdf
-│
-├── power_automate_flow/
-│ └── pipeline_overview.png
-│
-├── data_processing/
-│ └── ETL_process_explained.md
-│
-└── images/
-└── dashboard_sample_screenshot.png
+Dashboard/
+Sample Data/
+Power_Automate_Flow/
+Images/
+data_processing/
 
 ---
 
