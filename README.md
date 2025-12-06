@@ -20,11 +20,30 @@ This removes manual report creation and ensures quick visibility of plant perfor
 ---
 
 ## 📂 Repository Structure
-Dashboard/
-Sample Data/
-Power_Automate_Flow/
-Images/
-data_processing/
+.
+├── README.md
+│
+├── Dashboard/
+│   ├── Unit-1.pdf
+│   ├── Unit-3.pdf
+│   ├── Unit-4.pdf
+│   ├── Unit-7.pdf
+│   └── Unit-12.pdf
+│
+├── Sample Data/
+│   └── Sample Data Set.csv
+│
+├── Power_Automate_Flow/
+│   └── pipeline_overview.png
+│
+├── data_processing/
+│   └── ETL_process_explained.md
+│
+└── Images/
+    ├── Automated Mail Flow.jpg
+    ├── sample_Screenshot.png
+    └── Screenshot sample-2.png
+
 
 ---
 
