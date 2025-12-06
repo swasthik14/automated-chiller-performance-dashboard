@@ -17,10 +17,9 @@ This system automatically:
 
 This removes manual report creation and ensures quick visibility of plant performance.
 
----
+## 📁 Repository Structure
 
-## 📂 Repository Structure
-
+```text
 .
 ├── README.md
 │
@@ -44,22 +43,8 @@ This removes manual report creation and ensures quick visibility of plant perfor
     ├── Automated Mail Flow.jpg
     ├── sample_Screenshot.png
     └── Screenshot sample-2.png
+```
 
-
-## 📊 Dashboard KPIs Included
-
-Each dashboard contains:
-
-- Chiller Load (TR%)  
-- Actual vs Committed kW/TR  
-- TR vs Power Consumption  
-- CT Approach Trend  
-- Wet Bulb Temperature Profile  
-- Total Run Time  
-- Positive/Negative Minutes Split  
-- Daily Energy Consumption (kWh)
-
----
 
 ##  ETL Pipeline Overview
 
