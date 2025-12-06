@@ -20,6 +20,7 @@ This removes manual report creation and ensures quick visibility of plant perfor
 ---
 
 ## 📂 Repository Structure
+
 .
 ├── README.md
 │
@@ -44,8 +45,6 @@ This removes manual report creation and ensures quick visibility of plant perfor
     ├── sample_Screenshot.png
     └── Screenshot sample-2.png
 
-
----
 
 ## 📊 Dashboard KPIs Included
 
